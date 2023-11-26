@@ -26,6 +26,7 @@ import DeityService from "@root/.shared/db/DeityService"
 import FeatService from "@root/.shared/db/FeatService"
 import HeritageService from "@root/.shared/db/HeritageService"
 
+
 const ServiceManager = {
     constructor() {
         this._initialized = false
